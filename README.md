@@ -1,4 +1,4 @@
-# Improving Human-object Interaction with Auxiliary Semantic Information and Enhanced Instance Representation
+# CASQ: Enhancing Human-Object Interaction Detection via Supplementary Semantic Information for Interaction Queries
 In this study, we propose a novel method that utilizes supplementary semantic information to generate dynamic interaction queries per image. Our method involves embedding object categories into vector space using a pre-trained CLIP model and incorporating attention information from the semantic features, which enhances its representation and query capabilities.
 
 <p align="center"><img width="100%" src="./imgs/Framework.jpg"></p>
