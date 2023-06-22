@@ -16,6 +16,7 @@ We experimented three modules in colab environmental
 !pip install opencv-python
 !pip install wandb
 !pip install transformers
+!pip install ftfy
 
 %cd /CASQ/hotr/CLIP
 !pip install -r requirements.txt
